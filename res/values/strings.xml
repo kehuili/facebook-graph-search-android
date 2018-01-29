@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Facebook Search</string>
+    <string name="facebook_app_id">197420594075103</string>
+    <string name="title">Search on FB</string>
+    <string name="action_settings">action settings</string>
+    <string name="entertext">Enter a keyword:</string>
+    <string name="clear">CLEAR</string>
+    <string name="search">SEARCH</string>
+    <string name="myname">Kehui Li</string>
+    <string name="mynumber">7634596861</string>
+    <string name="nav_header">Facebook Search</string>
+</resources>
